@@ -1,0 +1,7 @@
+name: vRules
+ver: 1.0.0
+api: 2.0.0
+author: xJosh44
+main: Versai\main
+description: Versai rules for players and staff
+permissions: punish.list
